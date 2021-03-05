@@ -1,0 +1,45 @@
+{
+  "locked": false,
+  "disabled": false,
+  "private": false,
+  "details": {},
+  "$schema": "../../bot.config.schema.json",
+  "description": "",
+  "active": true,
+  "version": "12.18.1",
+  "author": "Botpress, Inc.",
+  "license": "AGPL-3.0",
+  "imports": {
+    "modules": [],
+    "incomingMiddleware": [],
+    "outgoingMiddleware": [],
+    "contentTypes": [
+      "builtin_action-button",
+      "builtin_card",
+      "builtin_carousel",
+      "builtin_image",
+      "builtin_single-choice",
+      "builtin_text",
+      "dropdown"
+    ]
+  },
+  "dialog": {
+    "timeoutInterval": "5m"
+  },
+  "logs": {
+    "expiration": "1 week"
+  },
+  "defaultLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "id": "botpresschatbot",
+  "name": "BotpressChatbot",
+  "pipeline_status": {
+    "current_stage": {
+      "id": "prod",
+      "promoted_on": "2021-03-05T09:41:22.132Z",
+      "promoted_by": "lioo19@student.bth.se"
+    }
+  }
+}
