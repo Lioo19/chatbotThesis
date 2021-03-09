@@ -1,0 +1,17 @@
+{
+  "name": "accommodation",
+  "utterances": {
+    "en": [
+      "Accommodation",
+      "I would like to rent a room. Do you have any suggestions on where to find one?",
+      "How to get a dorm room",
+      "Find housing",
+      "I need help finding student accommodation",
+      "I'm looking for a place to rent for a year"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

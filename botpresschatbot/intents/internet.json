@@ -1,0 +1,17 @@
+{
+  "name": "internet",
+  "utterances": {
+    "en": [
+      "Internet",
+      "Do you have free wifi on campus and where?",
+      "How to get wifi",
+      "Find internet",
+      "How to get access to good wifi",
+      "I can't access the open network"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

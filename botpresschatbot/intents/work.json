@@ -1,0 +1,17 @@
+{
+  "name": "work",
+  "utterances": {
+    "en": [
+      "Work",
+      "I want to study and work at the same time. What are my options?",
+      "How to find work for students",
+      "Work for students",
+      "How can I earn some money while I study?",
+      "Work part-time while studying"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

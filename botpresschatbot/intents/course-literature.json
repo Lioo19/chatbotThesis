@@ -1,0 +1,17 @@
+{
+  "name": "course-literature",
+  "utterances": {
+    "en": [
+      "Course literature",
+      "There’s an article in my reading list but I can’t find a copy of it. Any suggestions?",
+      "Where can I find course books?",
+      "Get used books",
+      "I need a book for my class",
+      "Find books and articles from my reading list"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "swedish",
+  "utterances": {
+    "en": [
+      "Swedish",
+      "I'm an exchange student and want to study Swedish, what are my options?",
+      "Do I need to learn Swedish?",
+      "Swedish course",
+      "Can I learn Swedish before I come to Sweden",
+      "Language requirements for studying in Sweden"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "food",
+  "utterances": {
+    "en": [
+      "Food",
+      "Can I microwave my food somewhere at campus, or do I have to buy lunch?",
+      "I want to find the cheapest food on campus",
+      "Find food",
+      "Are there any cafés nearby?",
+      "Are there any good restaurants on campus?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

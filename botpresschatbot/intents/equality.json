@@ -1,0 +1,17 @@
+{
+  "name": "equality",
+  "utterances": {
+    "en": [
+      "Equality",
+      "What can I do if I'm being discriminated against",
+      "Is the university equal?",
+      "Equal students",
+      "How does the university handle harassment cases?",
+      "How do you work with improving equality?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

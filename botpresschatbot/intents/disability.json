@@ -1,0 +1,17 @@
+{
+  "name": "disability",
+  "utterances": {
+    "en": [
+      "Disability",
+      "I have a learning disability. What kind of help can I get?",
+      "Help for disabled students",
+      "Disability support",
+      "I have dyslexia and need access to talking books",
+      "What kind of help can I get as a disabled person"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

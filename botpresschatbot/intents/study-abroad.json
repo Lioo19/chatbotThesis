@@ -1,0 +1,17 @@
+{
+  "name": "study-abroad",
+  "utterances": {
+    "en": [
+      "Study abroad",
+      "I want to study abroad. Do you have a partner university in Singapore?",
+      "I want to study in another country",
+      "International studies",
+      "Can I study in Canada?",
+      "What are my options for studying abroad"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

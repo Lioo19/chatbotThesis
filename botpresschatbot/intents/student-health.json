@@ -1,0 +1,17 @@
+{
+  "name": "student-health",
+  "utterances": {
+    "en": [
+      "Student healt",
+      "I’m having some problems and need to talk to a counsellor.",
+      "Help me find a counsellor",
+      "Find shrink",
+      "I’m feeling depressed and need to see someone",
+      "How to manage performance anxiety?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

@@ -9,9 +9,304 @@
     {
       "id": "entry",
       "name": "entry",
-      "next": [],
+      "next": [
+        {
+          "condition": "event.nlu.intent.name === 'accommodation'",
+          "node": "accommodation"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'application'",
+          "node": "application"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'course-literature'",
+          "node": "course-literature"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'opening-hours'",
+          "node": "opening-hours"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'password'",
+          "node": "password"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'schedule'",
+          "node": "schedule"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'student-life'",
+          "node": "student-life"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'study-abroad'",
+          "node": "study-abroad"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'study-from-home'",
+          "node": "study-from-home"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'tuition'",
+          "node": "tutition"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'food'",
+          "node": "food"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'student-health'",
+          "node": "student-health"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'phd'",
+          "node": "phd"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'swedish'",
+          "node": "swedish"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'identity-number'",
+          "node": "identity-number"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'work'",
+          "node": "work"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'disability'",
+          "node": "disabilities"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'study-counseling'",
+          "node": "study-counseling"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'equality'",
+          "node": "equality"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'internet'",
+          "node": "internet"
+        },
+        {
+          "condition": "true",
+          "node": "otherwise"
+        }
+      ],
       "onEnter": [],
       "onReceive": null
+    },
+    {
+      "id": "d79cde6795",
+      "name": "accommodation",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-Cc_mUC"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "6b80c72e0c",
+      "name": "application",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-7hA4Eq"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "72a21e6062",
+      "name": "course-literature",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-QXkhEs"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "ea373fa714",
+      "name": "opening-hours",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-KJl6pA"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "3df2890243",
+      "name": "password",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-0P4IOk"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7738a373ff",
+      "name": "schedule",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-_cJE18"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "27691b7371",
+      "name": "student-life",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-Y7yDX1"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "d582686fd6",
+      "name": "study-abroad",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-ul-69J"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "89e91f4fb2",
+      "name": "study-from-home",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-35yU56"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "47831cb482",
+      "name": "tutition",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-fK2RW_"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "b981289cc0",
+      "name": "otherwise",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-r9h6R8"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "3d82082b97",
+      "name": "food",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-iqY21J"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "14b1ca9d5c",
+      "name": "student-health",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-OePjlN"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "c83ed1775b",
+      "name": "phd",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-A3ZUD4"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7018f994d6",
+      "name": "swedish",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-cy2YIq"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "1dc9b11dc6",
+      "name": "identity-number",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-LIado1"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "7a5a64318f",
+      "name": "work",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-P0vpaz"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "77e2741f65",
+      "name": "disabilities",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-_Kxlv5"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "0551b215d0",
+      "name": "study-counseling",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-H26Ta9"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "f75c4179e5",
+      "name": "equality",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-qlTNXi"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "bfe67a59fa",
+      "name": "internet",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-JcgwN2"
+      ],
+      "onReceive": null,
+      "type": "standard"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "name": "identity-number",
+  "utterances": {
+    "en": [
+      "Identity number",
+      "I just moved to Sweden. How can I get a personal identity number?",
+      "How to get a personal identity number",
+      "Get identity number",
+      "Applying for a personal identity code in Sweden.",
+      "Social security number in Sweden"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

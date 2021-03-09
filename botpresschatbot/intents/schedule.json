@@ -1,0 +1,17 @@
+{
+  "name": "schedule",
+  "utterances": {
+    "en": [
+      "Schedule",
+      "Where is the lecture on Python programming for beginners today?",
+      "How do I find my schedule?",
+      "Get schedule",
+      "Can you tell me when the course ET1447 starts?",
+      "I need to find my classroom"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

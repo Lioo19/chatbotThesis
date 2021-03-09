@@ -1,0 +1,17 @@
+{
+  "name": "study-from-home",
+  "utterances": {
+    "en": [
+      "Study from home",
+      "I want to know more about remote learning at the university",
+      "Can I study from home?",
+      "Remote studying",
+      "Do I need to be on campus for my studies?",
+      "Study without attending campus, is it possible?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

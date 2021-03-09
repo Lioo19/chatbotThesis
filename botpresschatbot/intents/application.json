@@ -1,0 +1,17 @@
+{
+  "name": "application",
+  "utterances": {
+    "en": [
+      "Application",
+      "What’s the deadline for the application for spring term?",
+      "How to apply to college",
+      "Register course",
+      "How do I apply to a course?",
+      "How do I fill out an application?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

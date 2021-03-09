@@ -1,0 +1,17 @@
+{
+  "name": "study-counseling",
+  "utterances": {
+    "en": [
+      "Study counseling",
+      "I have some questions about my studies and want to talk to a study counselor",
+      "Do you have student counselors?",
+      "Change course",
+      "I think I chose the wrong programme and need some advice",
+      "I want to change to another programme. Who do I contact?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

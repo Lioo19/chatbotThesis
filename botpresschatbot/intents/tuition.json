@@ -1,0 +1,17 @@
+{
+  "name": "tuition",
+  "utterances": {
+    "en": [
+      "Tuition",
+      "I’m planning on applying next year and I’m wondering about the costs",
+      "How much is the tuition?",
+      "Fee studying",
+      "How to pay for university",
+      "Tuition fees, how much are they per year?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

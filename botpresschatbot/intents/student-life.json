@@ -1,0 +1,17 @@
+{
+  "name": "student-life",
+  "utterances": {
+    "en": [
+      "Student life",
+      "Do you have any tips on things to do on campus, like clubs, pubs or other activities?",
+      "How to find friends in school",
+      "Student clubs",
+      "How is the student life?",
+      "How do I join the student union?"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

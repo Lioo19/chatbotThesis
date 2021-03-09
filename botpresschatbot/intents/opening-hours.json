@@ -1,0 +1,17 @@
+{
+  "name": "opening-hours",
+  "utterances": {
+    "en": [
+      "opening hours",
+      "I'm thinking about coming by today. How long are you open?",
+      "When do you close today?",
+      "Opening hours today",
+      "What time are you open on Tuesday?",
+      "How long are you open tomorrow"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

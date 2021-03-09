@@ -1,0 +1,17 @@
+{
+  "name": "phd",
+  "utterances": {
+    "en": [
+      "PhD",
+      "I want to do my PhD at your university. How do I apply?",
+      "How to become a PhD student",
+      "Write a dissertation",
+      "Information on how to get a doctor's degree",
+      "Qualifications for a Ph.D"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}
