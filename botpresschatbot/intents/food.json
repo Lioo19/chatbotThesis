@@ -7,7 +7,12 @@
       "I want to find the cheapest food on campus",
       "Find food",
       "Are there any cafés nearby?",
-      "Are there any good restaurants on campus?"
+      "Are there any good restaurants on campus?",
+      "I'm looking for some vegan lunch options near campus",
+      "Where do I buy snacks?",
+      "Where can I find pizza on campus?",
+      "I want to find takeaway.",
+      "Could you please help me find a coffee shop?"
     ]
   },
   "slots": [],

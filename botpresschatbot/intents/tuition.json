@@ -7,7 +7,12 @@
       "How much is the tuition?",
       "Fee studying",
       "How to pay for university",
-      "Tuition fees, how much are they per year?"
+      "Tuition fees, how much are they per year?",
+      "How much money do you charge for a year of college?",
+      "Cost for studying",
+      "Do I have to pay to go to college?",
+      "I’m wondering what the fee for attending a single course is?",
+      "Tuition fees for computer science program"
     ]
   },
   "slots": [],

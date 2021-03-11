@@ -7,7 +7,12 @@
       "Do you have student counselors?",
       "Change course",
       "I think I chose the wrong programme and need some advice",
-      "I want to change to another programme. Who do I contact?"
+      "I want to change to another programme. Who do I contact?",
+      "I need to contact my study coordinator",
+      "Find contact person for programme",
+      "I want to have a leave of studies, who can I talk to",
+      "I want to get in contact with the coordinator for exchange students in Norway",
+      "What should I do if I want to quit a course?"
     ]
   },
   "slots": [],

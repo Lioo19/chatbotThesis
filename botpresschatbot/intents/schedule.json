@@ -7,7 +7,12 @@
       "How do I find my schedule?",
       "Get schedule",
       "Can you tell me when the course ET1447 starts?",
-      "I need to find my classroom"
+      "I need to find my classroom",
+      "When does the robotics lesson start?",
+      "Find schedule for the civil engineering program",
+      "When is my lecture?",
+      "Can you show me the course calendar?",
+      "Course schedule for this week"
     ]
   },
   "slots": [],

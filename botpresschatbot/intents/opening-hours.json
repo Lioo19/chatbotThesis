@@ -7,7 +7,12 @@
       "When do you close today?",
       "Opening hours today",
       "What time are you open on Tuesday?",
-      "How long are you open tomorrow"
+      "How long are you open tomorrow",
+      "Open today",
+      "When are you closing?",
+      "Are you open on Saturdays?",
+      "I need to talk to someone in person. What time can I visit you?",
+      "I'm wondering what your office hours are"
     ]
   },
   "slots": [],

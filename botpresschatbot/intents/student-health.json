@@ -2,12 +2,17 @@
   "name": "student-health",
   "utterances": {
     "en": [
-      "Student healt",
-      "I’m having some problems and need to talk to a counsellor.",
-      "Help me find a counsellor",
+      "Student health",
+      "I’m having some problems and need to talk to a counselor.",
+      "Help me find a counselor",
       "Find shrink",
       "I’m feeling depressed and need to see someone",
-      "How to manage performance anxiety?"
+      "How to manage performance anxiety?",
+      "Can you help me find someone to talk to about problems in school",
+      "I need some advice. Do you have anyone I can talk to?",
+      "I’m feeling stressed and need someone to talk to",
+      "I’m feeling depressed and need to see a psychiatrist",
+      "I can’t keep up with school"
     ]
   },
   "slots": [],

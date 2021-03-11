@@ -7,7 +7,12 @@
       "Can I study from home?",
       "Remote studying",
       "Do I need to be on campus for my studies?",
-      "Study without attending campus, is it possible?"
+      "Study without attending campus, is it possible?",
+      "Do you offer any online classes?",
+      "Is it possible to study without attending classes on campus",
+      "What do I need to study online?",
+      "I want to complete my master's degree. Is studying from home a possibility?",
+      "Can I attend school remotely"
     ]
   },
   "slots": [],
