@@ -12,7 +12,12 @@
       "Cost for studying",
       "Do I have to pay to go to college?",
       "I’m wondering what the fee for attending a single course is?",
-      "Tuition fees for computer science program"
+      "Tuition fees for computer science program",
+      "Education costs",
+      "Does it cost money to go to university?",
+      "What's the cost of going to college",
+      "I live in Switzerland. Do I need to pay tuition fees if I want to go to your university?",
+      "How much does it cost to get a master's degree"
     ]
   },
   "slots": [],

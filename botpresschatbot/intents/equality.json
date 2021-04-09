@@ -12,7 +12,12 @@
       "How do you improve gender equality?",
       "What's your policy on discrimination",
       "Is the university diverse?",
-      "Do you have policies for equal treatment in school"
+      "Do you have policies for equal treatment in school",
+      "I want to know more about diversity",
+      "Do you have an anti-discrimination policy?",
+      "Is the university inclusive?",
+      "How do I report discrimination in the classroom?",
+      "How are you working on improving diversity?"
     ]
   },
   "slots": [],

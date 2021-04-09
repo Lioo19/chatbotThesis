@@ -12,7 +12,12 @@
       "Find schedule for the civil engineering program",
       "When is my lecture?",
       "Can you show me the course calendar?",
-      "Course schedule for this week"
+      "Course schedule for this week",
+      "I need to know what time my lecture is",
+      "At what time does the algebra class start?",
+      "I need the schedule for the course Basic System Verification. Can you find it for me?",
+      "Which classroom is the Introduction to algebra class in today?",
+      "Schedule for this term"
     ]
   },
   "slots": [],

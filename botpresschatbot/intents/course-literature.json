@@ -12,7 +12,12 @@
       "Do you have a bookstore on campus?",
       "Where can I find course literature?",
       "How do I find an article for my course",
-      "Can you borrow course books"
+      "Can you borrow course books",
+      "Student bookshops",
+      "Does the library have course books?",
+      "Used course literature",
+      "How to find used books for class",
+      "Is there a bookshop on campus? Or can you recommend a shop nearby."
     ]
   },
   "slots": [],

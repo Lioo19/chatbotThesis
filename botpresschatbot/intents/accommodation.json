@@ -12,7 +12,12 @@
       "Find a place to stay, preferably near campus",
       "How can I find nice and affordable student accommodation near campus?",
       "I need a place to live as soon as possible.",
-      "Am I eligible for student housing?"
+      "Am I eligible for student housing?",
+      "Long term rental near school.",
+      "Share house with other students",
+      "I haven't found anywhere to live when school starts. Can you help?",
+      "Cheap room for students",
+      "Do you have a list of landlords who rent out to students?"
     ]
   },
   "slots": [],

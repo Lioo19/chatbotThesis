@@ -12,7 +12,12 @@
       "How much Swedish do I need to know",
       "I'm thinking about applying to your school as an exchange student, do I need to know Swedish?",
       "Can I manage without learning the language",
-      "Language skills for foreign students"
+      "Language skills for foreign students",
+      "Is speaking Swedish a requirement?",
+      "Do I need to speak Swedish if I'm studying in Sweden?",
+      "Is it necessary to know the language?",
+      "How important is it to know a bit of Swedish before moving there?",
+      "Take a Swedish class"
     ]
   },
   "slots": [],

@@ -12,7 +12,12 @@
       "Is it possible to study without attending classes on campus",
       "What do I need to study online?",
       "I want to complete my master's degree. Is studying from home a possibility?",
-      "Can I attend school remotely"
+      "Can I attend school remotely",
+      "Can I study without moving from my hometown?",
+      "Do you have courses that are taught entirely online?",
+      "Can I attend classes from home and how does that work",
+      "Can I get a degree by doing online studies?",
+      "Are classes compulsory?"
     ]
   },
   "slots": [],

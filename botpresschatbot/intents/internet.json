@@ -12,7 +12,12 @@
       "Free internet on campus",
       "Best place to study with Wi-Fi",
       "I keep losing my network connection when I'm at school",
-      "I want to surf on the web, how do I connect?"
+      "I want to surf on the web, how do I connect?",
+      "Get access to wifi at school",
+      "How to connect to wifi",
+      "I can't access the wifi. Can you help me?",
+      "I keep losing my internet connection, what's wrong?",
+      "Open network on campus"
     ]
   },
   "slots": [],

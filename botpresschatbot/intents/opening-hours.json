@@ -12,7 +12,12 @@
       "When are you closing?",
       "Are you open on Saturdays?",
       "I need to talk to someone in person. What time can I visit you?",
-      "I'm wondering what your office hours are"
+      "I'm wondering what your office hours are",
+      "Are you open today at noon?",
+      "I'm coming by tomorrow. When are you open?",
+      "What are your business hours?",
+      "What time are you closing on Friday?",
+      "Are you open every day?"
     ]
   },
   "slots": [],

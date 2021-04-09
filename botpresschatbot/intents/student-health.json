@@ -12,7 +12,12 @@
       "I need some advice. Do you have anyone I can talk to?",
       "I’m feeling stressed and need someone to talk to",
       "I’m feeling depressed and need to see a psychiatrist",
-      "I can’t keep up with school"
+      "I can’t keep up with school",
+      "Do you have a student health center and I so, how do I contact it?",
+      "Student healthcare options",
+      "How to manage stress",
+      "I want to get in contact with the student health services.",
+      "Do you have shrinks available for students?"
     ]
   },
   "slots": [],
