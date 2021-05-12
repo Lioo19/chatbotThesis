@@ -92,7 +92,7 @@
         },
         {
           "condition": "true",
-          "node": ""
+          "node": "otherwise"
         }
       ],
       "onEnter": [],
@@ -199,6 +199,16 @@
       "type": "standard"
     },
     {
+      "id": "b981289cc0",
+      "name": "otherwise",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-r9h6R8"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
       "id": "3d82082b97",
       "name": "food",
       "next": [],
@@ -294,16 +304,6 @@
       "next": [],
       "onEnter": [
         "say #!builtin_text-JcgwN2"
-      ],
-      "onReceive": null,
-      "type": "standard"
-    },
-    {
-      "id": "8fdc59baf3",
-      "name": "otherwise",
-      "next": [],
-      "onEnter": [
-        "say #!builtin_text-r9h6R8"
       ],
       "onReceive": null,
       "type": "standard"

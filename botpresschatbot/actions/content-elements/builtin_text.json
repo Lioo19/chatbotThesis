@@ -1,0 +1,255 @@
+[
+  {
+    "id": "builtin_text-z6Li34",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "What can I do for you today?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:21:06.865Z",
+    "modifiedOn": "2021-03-09T09:21:06.865Z"
+  },
+  {
+    "id": "builtin_text-Cc_mUC",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to know more about accommodation."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:32:58.596Z",
+    "modifiedOn": "2021-03-09T09:32:58.596Z"
+  },
+  {
+    "id": "builtin_text-7hA4Eq",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to know more about the application process"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:49:25.169Z",
+    "modifiedOn": "2021-03-09T09:49:25.169Z"
+  },
+  {
+    "id": "builtin_text-QXkhEs",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to find literature"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:49:57.855Z",
+    "modifiedOn": "2021-03-09T09:49:57.855Z"
+  },
+  {
+    "id": "builtin_text-KJl6pA",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to know our opening hours"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:52:30.958Z",
+    "modifiedOn": "2021-03-09T09:52:30.958Z"
+  },
+  {
+    "id": "builtin_text-0P4IOk",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to reset your password."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:53:08.159Z",
+    "modifiedOn": "2021-03-09T09:53:08.159Z"
+  },
+  {
+    "id": "builtin_text-_cJE18",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have a question about your schedule"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:53:31.294Z",
+    "modifiedOn": "2021-03-09T09:53:31.294Z"
+  },
+  {
+    "id": "builtin_text-Y7yDX1",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to know more about the student life"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:54:16.730Z",
+    "modifiedOn": "2021-03-09T09:54:16.730Z"
+  },
+  {
+    "id": "builtin_text-ul-69J",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to study abroad."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:55:12.863Z",
+    "modifiedOn": "2021-03-09T09:55:12.863Z"
+  },
+  {
+    "id": "builtin_text-35yU56",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to know more about studying from home."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:56:18.725Z",
+    "modifiedOn": "2021-03-09T09:56:18.725Z"
+  },
+  {
+    "id": "builtin_text-fK2RW_",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have a question about tuition."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T09:56:48.710Z",
+    "modifiedOn": "2021-03-09T09:56:48.710Z"
+  },
+  {
+    "id": "builtin_text-iqY21J",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you want to know more about food options."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:40:51.758Z",
+    "modifiedOn": "2021-03-09T10:40:51.758Z"
+  },
+  {
+    "id": "builtin_text-OePjlN",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about student health services."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:41:27.900Z",
+    "modifiedOn": "2021-03-09T10:41:27.900Z"
+  },
+  {
+    "id": "builtin_text-A3ZUD4",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about being a PhD student."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:42:42.832Z",
+    "modifiedOn": "2021-03-09T10:42:42.832Z"
+  },
+  {
+    "id": "builtin_text-cy2YIq",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about learning Swedish."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:43:17.511Z",
+    "modifiedOn": "2021-03-09T10:43:17.511Z"
+  },
+  {
+    "id": "builtin_text-LIado1",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about getting a personal identity number."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:44:25.271Z",
+    "modifiedOn": "2021-03-09T10:44:25.271Z"
+  },
+  {
+    "id": "builtin_text-P0vpaz",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about work during studies."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:44:55.613Z",
+    "modifiedOn": "2021-03-09T10:44:55.613Z"
+  },
+  {
+    "id": "builtin_text-_Kxlv5",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about disability."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:47:12.606Z",
+    "modifiedOn": "2021-03-09T10:47:12.606Z"
+  },
+  {
+    "id": "builtin_text-H26Ta9",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about study counselors."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:47:42.307Z",
+    "modifiedOn": "2021-03-09T10:47:42.307Z"
+  },
+  {
+    "id": "builtin_text-qlTNXi",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about equality."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:48:14.943Z",
+    "modifiedOn": "2021-03-09T10:48:14.943Z"
+  },
+  {
+    "id": "builtin_text-JcgwN2",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I understand that you have questions about using the internet."
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:49:28.091Z",
+    "modifiedOn": "2021-03-09T10:49:28.091Z"
+  },
+  {
+    "id": "builtin_text-r9h6R8",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "I did not understand you, sorry!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T10:53:03.791Z",
+    "modifiedOn": "2021-03-09T10:53:03.791Z"
+  },
+  {
+    "id": "builtin_text-fdgnMB",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Thesisbot - reporting for duty!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-09T12:20:09.204Z",
+    "modifiedOn": "2021-03-09T12:20:09.204Z"
+  }
+]
