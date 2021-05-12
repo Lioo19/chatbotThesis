@@ -17,8 +17,9 @@ git clone https://github.com/lioo19/chatbotThesis
 The files in this repository should be placed in the ```data/bots```-folder to work properly. The chatbot should then pop up in your visual conversation studio.
 
 ## Commands for starting the framework
+Start the software by using the following command:
 ```
 ./bp
 ```
 
-To train the chatbot, press the grey button in the bottom right corner. All tests can be done in the graphical interface, with the help of the debug console.
+When in the visual conversation studio, train the chatbot by pressing the grey button in the bottom right corner. All tests can then be done in the graphical interface, with the help of the debug console.
